@@ -63,7 +63,7 @@ When a developer pushes the updated code to the GIT master branch:
 
 This process should be automatic and triggered by a push to the GitHub master branch.
 
-## Application source code is available at the following link
+## Application source code is available at the following link:
 [GitHub-MedicureApp-Link](https://github.com/shubhamkushwah123/medicure-app.git)
 
 ## How to run the app
@@ -71,7 +71,7 @@ This process should be automatic and triggered by a push to the GitHub master br
 - Run App : mvn spring-boot:run
 - access using the url : http://ipaddress:8082/
 
-## How to submit the project the project : 
+## How to submit the project the project: 
 
 1. Create a document with detailed step by step tasks along with the screenshot and upload into respective assignment.
-2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc..
+2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc.
