@@ -53,7 +53,7 @@ You already have the application setup in the source code repository.
 
 ### Business Challenge/Requirement
 
-When a developer pushes the updated code to the GIT master branch:
+When a developer pushes the updated code to the GIT master branch :
 1. The Jenkins pipeline should be triggered.
 2. Code should be checked out, compiled, tested, packaged, and containerized.
 3. Terraform should provision the test and prd environment. (2 separate ec2 instances)
@@ -67,9 +67,9 @@ This process should be automatic and triggered by a push to the GitHub master br
 [GitHub-MedicureApp-Link](https://github.com/shubhamkushwah123/medicure-app.git)
 
 ## How to run the app
-- Build App	: mvn clean package
-- Run App	: mvn spring-boot:run
-- access using the url	: http://ipaddress:8082/
+- Build App : mvn clean package
+- Run App : mvn spring-boot:run
+- access using the url : http://ipaddress:8082/
 
 ## How to submit the project the project: 
 
